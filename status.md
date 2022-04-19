@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Romeo Hong
 
 #### Your section leader's name
 
-TODO
+Hongzheng Wang
 
 #### Project title
 
-TODO
+FlackJack
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I've been able to create a basic game of Blackjack.
 
 #### What have you not done for your project yet?
 
-TODO
+I've not implemented the unique game rules.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I've yet to encounter any major issues.
